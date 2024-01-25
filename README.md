@@ -16,6 +16,9 @@ results/: Directory to store analysis results and visualizations
 The analysis provides insights into:
 
 Diwali sales trends.
+
 Most popular products during the festival.
+
 Customer purchasing patterns.
+
 Visualizations and summary findings are available in the notebook or script.
