@@ -8,8 +8,11 @@ This Python project focuses on analyzing sales data during the Diwali festival p
 The project is organized as follows:
 
 Diwali_Sales_Analysis.ipynb: Jupyter notebook containing the analysis code.
+
 diwali_sales_analysis.py: Python script for running the analysis.
+
 data/: Directory containing the dataset used for analysis.
+
 results/: Directory to store analysis results and visualizations
 
 # Analysis Results
